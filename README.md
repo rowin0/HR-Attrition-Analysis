@@ -8,11 +8,11 @@ Insights and recommendations will be provided in the following key areas:
   * Utilizing logistic regression and random forest models to predict the probability of employee attrition.
     
 The Python exploratory data analysis (EDA) phase can be found [here](https://github.com/rowin0/HR-Attrition-Analysis/blob/main/P2%20EDA.pdf).\
-Python-generated graphs highlighting key metrics directly correlated with attrition are available here.\
+Python-generated graphs highlighting key metrics directly correlated with attrition are available [here](https://github.com/rowin0/HR-Attrition-Analysis/blob/main/P2%20Graphs%20of%20key%20metrics.pdf).\
 This section presents the predicted probability of employee attrition using two predictive models.
 
 ## Data structure
-The EDA process typically begins by loading the necessary libraries for data manipulation, visualization, preprocessing, and modeling, we also load Attrition csv.file and take a look at the data. 
+The EDA process typically begins by loading the necessary libraries for data manipulation, visualization, preprocessing, and modeling, in this step also load Attrition csv.file and take a look at the data. 
 ![image](https://github.com/user-attachments/assets/96f3266b-7087-4122-979f-54b708ba9044)
 
 ## Executive summary
@@ -29,7 +29,7 @@ Top negative correlations are:\
 •	YearsWithCurrManager: -0.44, suggesting that employees with stable relationships with their managers tend to stay longer.\
 On the other hand, variables such as HourlyRate, PercentSalaryHike, StandardHours, and Education do not show strong direct correlations with attrition.\
 ![image](https://github.com/user-attachments/assets/bf209564-dde0-422d-9a5c-95b7e77e1de4)\
-Additional metrics and their correlation with attrition can be found here.
+Additional metrics and their correlation with attrition can be found [here](https://github.com/rowin0/HR-Attrition-Analysis/blob/main/P2%20Graphs%20of%20key%20metrics.pdf).
 
 #### Predicting the probability of employee attrition
 The two predictive models utilize selected features or metrics identified through Recursive Feature Elimination (RFE),a method that picks features by importance and removes the least significant ones, this increases model efficiency and performance, as can be seen here.\
