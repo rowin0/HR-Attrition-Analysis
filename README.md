@@ -7,7 +7,7 @@ Insights and recommendations will be provided in the following key areas:
   * Attrition trends – Identifying key metrics to help leadership understand the primary reasons employees are leaving the organization.
   * Utilizing logistic regression and random forest models to predict the probability of employee attrition.
     
-The Python exploratory data analysis (EDA) phase can be found here.\
+The Python exploratory data analysis (EDA) phase can be found [here](https://github.com/rowin0/HR-Attrition-Analysis/blob/main/P2%20EDA.pdf).\
 Python-generated graphs highlighting key metrics directly correlated with attrition are available here.\
 This section presents the predicted probability of employee attrition using two predictive models.
 
